@@ -1,0 +1,11 @@
+{
+  "name": "ReviewerDashboard",
+  "label": "Reviewer Dashboard",
+  "platform": "HTML",
+  "version": "2.17",
+  "wabVersion": "2.17",
+  "author": "Data Reviewer Team",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
